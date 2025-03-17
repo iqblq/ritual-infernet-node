@@ -1,7 +1,7 @@
 # Ritual Infernet Node - One Click Installation
 ![image](https://github.com/user-attachments/assets/aa775ac2-2a39-45e0-accc-4ebdde683d45)
 
-#Hardware Requairement
+# Hardware Requairement
 ![image](https://github.com/user-attachments/assets/c093deb6-3c29-481a-810b-3d46757f6ce1)
 
 ## Introduction
